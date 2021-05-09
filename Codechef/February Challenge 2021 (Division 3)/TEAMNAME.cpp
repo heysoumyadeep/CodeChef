@@ -19,12 +19,6 @@ int main()
     cin>>t;
     while(t--)
     {
-
-        for(int i = 0;i<1000;i++)
-            for(int i = 0;i<1000;i++)
-                for(int i=0;i<1000;i++)
-                    for(int i=0;i<1000;i++)
-                        i=i+0;
         int n;
         cin>>n;
         map<string,vector<char>> m;
