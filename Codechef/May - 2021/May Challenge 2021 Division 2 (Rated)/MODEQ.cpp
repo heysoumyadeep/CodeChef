@@ -31,6 +31,7 @@ void solve()
     vll mod(n + 1, 1);
     for (ll i = 2; i <= n; i++)
     {
+        
         ll temp = m % i;
         res += mod[temp];
         for (ll j = temp; j <= n; j += i)
