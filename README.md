@@ -1,3 +1,3 @@
 # Competitive-Programming
 
-My Codechef Profile - https://www.codechef.com/users/heysoumyadeep
+My CodeChef Profile - https://www.codechef.com/users/heysoumyadeep
